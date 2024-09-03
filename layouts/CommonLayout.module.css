@@ -1,0 +1,9 @@
+.wrap {
+    display: block;
+    margin: 0 auto;
+    max-width: 90%;
+}
+.header nav ul {
+    display: flex;
+    gap: 8px;
+}
